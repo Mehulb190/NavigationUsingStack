@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <!-- Your existing entries remain the same -->
+
+    <key>CFBundleURLTypes</key>
+    <array>
+        <dict>
+            <key>CFBundleURLSchemes</key>
+            <array>
+                <string>app</string>
+            </array>
+            <key>CFBundleURLName</key>
+            <string>com.yourcompany.NavigationUsingStack</string>
+        </dict>
+    </array>
+
+    <!-- The rest of your entries remain the same -->
+</dict>
+</plist>
